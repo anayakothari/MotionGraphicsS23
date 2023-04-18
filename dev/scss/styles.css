@@ -408,8 +408,9 @@ header > div aside a {
 #hero {
   height: 90vh;
   width: 100%;
+  overflow: hidden;
 }
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   #hero {
     display: grid;
     grid-template-areas: ". hero .";
@@ -417,15 +418,6 @@ header > div aside a {
   }
 }
 #hero > div {
-  overflow: hidden;
-  height: 100%;
-}
-@media (min-width: 1200px) {
-  #hero > div {
-    grid-area: hero;
-  }
-}
-#hero article {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -434,40 +426,44 @@ header > div aside a {
   background-position: center;
   background-size: cover;
 }
-#hero article #hero-content {
+@media (min-width: 1200px) {
+  #hero > div {
+    grid-area: hero;
+  }
+}
+#hero #hero-content {
   color: var(--white);
   text-align: center;
 }
-#hero article #hero-content h1 {
+#hero #hero-content h1 {
   font-size: 5rem;
   font-weight: 400;
   line-height: 47px;
-  margin: 25;
 }
 @media (min-width: 768px) {
-  #hero article #hero-content h1 {
+  #hero #hero-content h1 {
     font-size: rem-cal(40);
   }
 }
 @media (min-width: 1024px) {
-  #hero article #hero-content h1 {
+  #hero #hero-content h1 {
     font-size: rem-cal(40);
   }
 }
-#hero article #hero-content h2 {
+#hero #hero-content h2 {
   font-size: 2rem;
   font-weight: 900;
   line-height: 117px;
   margin-top: 10px;
 }
 @media (min-width: 768px) {
-  #hero article #hero-content h2 {
+  #hero #hero-content h2 {
     font-size: rem-cal(90);
-    margin-top: 5px;
+    margin-top: 10px;
   }
 }
 @media (min-width: 1024px) {
-  #hero article #hero-content h2 {
+  #hero #hero-content h2 {
     font-size: rem-cal(100);
     margin-top: 0px;
   }
