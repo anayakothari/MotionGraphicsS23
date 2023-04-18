@@ -237,6 +237,18 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/dev\/scss\/components\/_navigation.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_navigation-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/dev\/scss\/components\/_navigation.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -296,6 +308,18 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/dev\/scss\/layout\/_header.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/layout\/_header-min.css",
+      "oF" : 0,
+      "pg" : 0
     },
     "\/dev\/scss\/layout\/_header.scss" : {
       "aP" : 0,
