@@ -135,29 +135,6 @@
       "oAP" : "\/dev\/global\/scripts.html",
       "oF" : 1
     },
-    "\/dev\/img\/desertlogo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/dev\/img\/desertlogo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/dev\/img\/hero.jpg" : {
-      "ft" : 16384,
-      "iS" : 150290,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/img\/hero.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/dev\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
