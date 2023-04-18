@@ -409,7 +409,7 @@ header > div aside a {
   height: 90vh;
   width: 100%;
 }
-@media (min-width: 1200px) {
+@media (min-width: 768px) {
   #hero {
     display: grid;
     grid-template-areas: ". hero .";
