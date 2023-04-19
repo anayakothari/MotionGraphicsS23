@@ -11,18 +11,23 @@
     }
 
     >div {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100%;
-        background-image: url('../img/hero.jpg');
-        background-position: center;
-        background-size: cover;
+        overflow: hidden;
+        height:100%;
+        
 
         @include xl {
             grid-area: hero;
         }
     }
+
+    article{
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        height:100%;
+        background-image: url('../img/hero.png');
+        background-position: center;
+        background-size: cover;
 
 
 
@@ -61,6 +66,7 @@
                 margin-top: 0px;
             }
         }
+    }
 
     }
 }
