@@ -22,6 +22,12 @@ gsap.from(".h2", {
     delay: .5
 });
 
+gsap.from("#button", {
+    duration: 2,
+    x: "-=1000",
+    delay: .5
+});
+
 gsap.to("#hero", {
     duration: 2,
     y: "-=20",

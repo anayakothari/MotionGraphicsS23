@@ -334,6 +334,14 @@ template {
 /* =============
     Buttons
 ============= */
+#button {
+  background-color: beige;
+  margin: auto;
+  border-radius: 14px;
+  font-family: "Playfair Display";
+  padding: 10px;
+}
+
 /* =============
     Forms
 ============= */
