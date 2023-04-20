@@ -33,3 +33,9 @@ gsap.to("#hero", {
     y: "-=20",
     delay: 2.5
 });
+
+gsap.to("#content", {
+    duration: 1,
+    rotation: 360,
+    delay: .5
+});
