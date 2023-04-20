@@ -36,8 +36,8 @@
             text-align: center;
 
             h1 {
-                font-size: rem-calc(30);
-                font-weight: 400;
+                font-size: rem-calc(35);
+                font-weight: 300;
                 line-height: 47px;
                 margin-top: 25px;
 
@@ -51,14 +51,14 @@
             }
 
             h2 {
-                font-size: rem-calc(100);
-                font-weight: 900;
+                font-size: rem-calc(70);
+                font-weight: 600;
                 line-height: 117px;
-                margin-top: 10px;
+                margin-top: 5px;
 
                 @include md {
                     font-size: rem-cal(90);
-                    margin-top: 10px;
+                    margin-top: 5px;
                 }
 
                 @include lg {

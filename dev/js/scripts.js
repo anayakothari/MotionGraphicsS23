@@ -9,7 +9,7 @@ gsap.from("#logo", {
 });
 
 gsap.from("nav li", {
-    duration: 2,
+    duration: .5,
     alpha: 0,
     stagger: .4,
     y: "-=20",
@@ -18,7 +18,7 @@ gsap.from("nav li", {
 
 gsap.from(".h2", {
     duration: 2,
-    y: "-=20",
+    y: "+=30",
     delay: .5
 });
 
