@@ -7,4 +7,9 @@
     border-radius: 14px;
     font-family: "Playfair Display";
     padding: 10px;
+
+    &:hover {
+        background-color: black;
+        color: white;
+    }
 }
