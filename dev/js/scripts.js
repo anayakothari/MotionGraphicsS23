@@ -5,7 +5,9 @@ import {
 let mainTl = gsap.timeline({delay:1});
 
 function animate() {
-    const tl = gsap.timeline({paused: false});
+    let tl = gsap.timeline({paused: false});
+    let mm = gsap.matchMedia();
+
   
     tl.from("#logo", {
       duration: 1.5,
