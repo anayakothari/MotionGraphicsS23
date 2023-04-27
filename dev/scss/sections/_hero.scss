@@ -4,7 +4,7 @@
     overflow: hidden;
 
 
-    @include xl {
+    @include xxl {
         display: grid;
         grid-template-areas: ". hero .";
         grid-template-columns: auto 1440px auto;

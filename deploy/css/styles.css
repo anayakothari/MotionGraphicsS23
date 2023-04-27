@@ -422,7 +422,7 @@ header > div aside a {
   width: 100%;
   overflow: hidden;
 }
-@media (min-width: 1200px) {
+@media (min-width: 1440px) {
   #hero {
     display: grid;
     grid-template-areas: ". hero .";

@@ -4,15 +4,17 @@ import {
 
 let mainTl = gsap.timeline({delay:1});
 
+
+
 function animate() {
     let tl = gsap.timeline({paused: false});
     let mm = gsap.matchMedia();
 
-  
+    
     tl.from("#logo", {
-      duration: 1.5,
+      duration: 1,
       alpha: 0,
-      delay: .5
+      //delay: .5
     })
     .from("nav li", {
       duration: .5,
@@ -20,33 +22,35 @@ function animate() {
       stagger: {each:0.1},
       from:"start",
       y: "-=20",
-      delay: .5
+      //delay: .5
     })
     .from(".h2", {
-      duration: 2,
+      duration: 1,
       y: "+=30",
       //delay: .5
     })
     .from("#button", {
-      duration: 2,
+      duration: 1,
       x: "-=1000",
       //delay: .5
     })
     .to("#hero", {
       duration: 2,
       y: "-=20",
-      delay: 1.5
+      //delay: 1.5
     })
     .to("#content", {
-      duration: 1,
-      rotation: 360,
-      delay: .5
+      duration: 1.5,
+      easing: 'ease-in-out',
+      x: "-=1100",
+      //rotation: 360,
+      //delay: .5
     });
   
     return mainTl;
   }
   
-  const mainTimeline = animate();
+mainTimeline = animate();
 
   mainTl.add("#logo")
   .add("#hero")
