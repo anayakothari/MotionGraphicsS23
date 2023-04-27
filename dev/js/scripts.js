@@ -12,7 +12,7 @@ function logoAni(){
   });
 
   mm.add("(min-width:768px)", () =>{
-    tl.from("#logo", {duration: .5, rotation: 360})
+    tl.from("#logo", {duration: 1, rotation: 360})
     });
 
 
