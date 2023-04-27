@@ -2,7 +2,7 @@ import {
     gsap
 } from "gsap";
 
-let mainTl = gsap.timeline({delay:1});
+let mainTl = gsap.timeline({repeat});
 
 function animate() {
     const tl = gsap.timeline({paused: false});
