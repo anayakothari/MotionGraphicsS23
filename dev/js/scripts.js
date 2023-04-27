@@ -41,7 +41,7 @@ function animate() {
       delay: .5
     });
   
-    return tl;
+    return mainTl;
   }
   
   const mainTimeline = animate();
