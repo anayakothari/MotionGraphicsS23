@@ -44,4 +44,11 @@ function animate() {
   }
   
   const mainTimeline = animate();
+
+  mainTl.add("#logo")
+  .add("#hero")
+  .add("#button")
+  .add("nav li")
+  .add(".h2")
+  .add("#content")
   
