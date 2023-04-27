@@ -19,9 +19,12 @@ function logoAni(){
   return tl;
 }
 
-mainTl.add(logoAni())
+//ainTl.add(logoAni())
+function navLi(){
 
-mainTl.from("nav li", {
+  let tl = gsap.timeline();
+
+tl.from("nav li", {
   duration: .5,
   alpha: 0,
   stagger: {each:0.1},
@@ -29,6 +32,7 @@ mainTl.from("nav li", {
   y: "-=20"
   //delay: .5
 })
+
 .from(".h2", {
   duration: 1,
   y: "+=30"
@@ -49,7 +53,8 @@ mainTl.from("nav li", {
   rotation: 360
   //delay: .5
 });
-
+return tl;
+}
 
 
 function heroAni(){
@@ -69,7 +74,9 @@ function heroAni(){
     return tl;
 }
 
-mainTl.add(heroAni())
+mainTl.add(logoAni())
+.add(heroAni())
+.add(navLi())
 ;
 
 
