@@ -5,7 +5,7 @@ import {
 let mainTl = gsap.timeline({delay:1});
 
 function animate() {
-    const tl = gsap.timeline({paused: true});
+    const tl = gsap.timeline({paused: false});
   
     tl.from("#logo", {
       duration: 1.5,
@@ -15,7 +15,8 @@ function animate() {
     .from("nav li", {
       duration: .5,
       alpha: 0,
-      stagger: .4,
+      stagger: {each:0.1},
+      from:"start",
       y: "-=20",
       delay: 1
     })
