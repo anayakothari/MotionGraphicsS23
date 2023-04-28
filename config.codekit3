@@ -399,14 +399,6 @@
       "pME" : 1,
       "rFN" : 0,
       "uCM" : 0
-    },
-    "\/week-4-quiz\/.gitattributes" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/week-4-quiz\/.gitattributes",
-      "oF" : 0
     }
   },
   "hooks" : [
@@ -417,7 +409,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 669227926.75338697,
-    "displayValue" : "Motion-S23-PM-week-4-quiz",
+    "displayValue" : "MotionGraphicsS23",
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets-ucla",
     "iconImageWasSetByUser" : 0,
