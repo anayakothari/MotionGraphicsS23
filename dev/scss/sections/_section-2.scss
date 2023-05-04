@@ -11,14 +11,15 @@ p{
     text-align: center;
     display: flex;
     margin: 0 auto;
+    margin-bottom: -400px;
     color: var(--white);
 }
 
     #box{
         height: 100px;
         width: 100px;
-        background-color: var(--white);
-        border: 3px solid var(--charcoal);
+        background-color: var(--green);
+        border: 3px solid var(--white);
         display: grid;
         align-items: center;
         margin: 0 auto;
