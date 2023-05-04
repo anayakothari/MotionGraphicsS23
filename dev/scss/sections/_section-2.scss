@@ -1,5 +1,5 @@
 #section-2{
-    background-color: var(--charcoal);
+    background-color: var(--red);
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -9,7 +9,7 @@
     #box{
         height: 100px;
         width: 100px;
-        background-color: var(--red);
-        border: 3px solid var(--white);
+        background-color: var(--white);
+        border: 3px solid var(--charcoal);
     }
 }

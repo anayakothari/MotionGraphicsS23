@@ -52,7 +52,6 @@ main {
  */
 h1 {
   font-size: 2em;
-  color: var(--green);
   margin: 0.67em 0;
 }
 
@@ -377,9 +376,12 @@ textarea {
   background-image: url("../img/hero.jpg");
   background-size: cover;
 }
+#section-1 .h1 {
+  font-family: "Teko", sans-serif;
+}
 
 #section-2 {
-  background-color: var(--charcoal);
+  background-color: var(--red);
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -389,14 +391,16 @@ textarea {
 #section-2 #box {
   height: 100px;
   width: 100px;
-  background-color: var(--red);
-  border: 3px solid var(--white);
+  background-color: var(--white);
+  border: 3px solid var(--charcoal);
 }
 
 #section-3 {
-  background-color: var(--yellow);
+  background-color: var(--green);
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
+  background-image: url("../img/swisstrain.jpg");
+  background-size: cover;
 }
