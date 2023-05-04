@@ -15,7 +15,7 @@ html {
   --black: #000;
   --charcoal: #383838;
   --green: #12441c;
-  --red: #ef4b2e;
+  --red: #961802;
 }
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
@@ -334,7 +334,15 @@ template {
     Typography
 ============= */
 body {
-  font-family: "Nunito", sans-serif;
+  font-family: "Teko", sans-serif;
+}
+
+p {
+  font-weight: 300;
+}
+
+h1 {
+  font-weight: 600;
 }
 
 /* =============
@@ -376,8 +384,9 @@ textarea {
   background-size: cover;
 }
 #section-1 h1 {
-  font-family: "Teko", sans-serif;
+  font-size: 60px;
   color: var(--red);
+  margin: -100px auto 0 auto;
 }
 
 #section-2 {
@@ -389,10 +398,11 @@ textarea {
   background-size: cover;
 }
 #section-2 p {
-  font-size: 20px;
+  font-size: 30px;
   text-align: center;
   display: flex;
   margin: 0 auto;
+  color: var(--white);
 }
 #section-2 #box {
   height: 100px;
