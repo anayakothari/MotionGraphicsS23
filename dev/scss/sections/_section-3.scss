@@ -1,9 +1,15 @@
 #section-3 {
 	background-color: var(--green);
 	height: 100vh;
-	display: flex;
+	display: grid;
 	justify-content: center;
 	align-items: center;
 	background-image: url("../img/swisstrain.jpg");
 	background-size: cover;
+
+	h1{
+		font-size: 55px;
+		color: var(--green);
+		margin: -550px auto 0 auto;
+	}
 }

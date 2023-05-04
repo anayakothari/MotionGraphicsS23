@@ -375,43 +375,48 @@ textarea {
   background-image: url("../img/hero.jpg");
   background-size: cover;
 }
-#section-1 .h1 {
+#section-1 h1 {
   font-family: "Teko", sans-serif;
-  color: var(#12441c);
+  color: var(--red);
 }
 
 #section-2 {
   background-color: var(--red);
   height: 100vh;
-  display: flex;
+  display: grid;
   justify-content: center;
   align-items: center;
   background-size: cover;
+}
+#section-2 p {
+  font-size: 20px;
+  text-align: center;
+  display: flex;
+  margin: 0 auto;
 }
 #section-2 #box {
   height: 100px;
   width: 100px;
   background-color: var(--white);
   border: 3px solid var(--charcoal);
-  display: flex;
+  display: grid;
   align-items: center;
-}
-#section-2 #box p {
-  font-size: 20px;
-  text-align: justify;
-  display: flex;
-  margin-top: auto;
-  margin-bottom: 200px;
-  margin-left: 30%;
-  margin-right: 30%;
+  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #section-3 {
   background-color: var(--green);
   height: 100vh;
-  display: flex;
+  display: grid;
   justify-content: center;
   align-items: center;
   background-image: url("../img/swisstrain.jpg");
   background-size: cover;
+}
+#section-3 h1 {
+  font-size: 55px;
+  color: var(--green);
+  margin: -550px auto 0 auto;
 }

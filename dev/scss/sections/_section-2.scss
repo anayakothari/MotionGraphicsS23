@@ -1,27 +1,28 @@
 #section-2{
     background-color: var(--red);
     height: 100vh;
-    display: flex;
+    display: grid;
     justify-content: center;
     align-items: center;
     background-size: cover;
+
+p{
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    margin: 0 auto;
+}
 
     #box{
         height: 100px;
         width: 100px;
         background-color: var(--white);
         border: 3px solid var(--charcoal);
-        display: flex;
+        display: grid;
         align-items: center;
+        margin: 0 auto;
+        margin-left: auto;
+        margin-right: auto;
 
-        p{
-        font-size: 20px;
-        text-align: justify;
-        display: flex;
-        margin-top: auto;
-        margin-bottom: 200px;
-        margin-left: 30%;
-        margin-right: 30%;
-}
-}
+    }
 }
