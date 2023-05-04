@@ -393,6 +393,16 @@ textarea {
   width: 100px;
   background-color: var(--white);
   border: 3px solid var(--charcoal);
+  display: flex;
+  align-items: center;
+}
+#section-2 #box p {
+  font-size: 20px;
+  text-align: justify;
+  display: flex;
+  margin-top: auto;
+  margin-bottom: 150px;
+  color: var(--white);
 }
 
 #section-3 {
