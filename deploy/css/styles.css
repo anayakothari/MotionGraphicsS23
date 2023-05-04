@@ -368,7 +368,6 @@ textarea {
     Footer
 ============= */
 #section-1 {
-  background-color: var(--white);
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -378,6 +377,7 @@ textarea {
 }
 #section-1 .h1 {
   font-family: "Teko", sans-serif;
+  color: var(#12441c);
 }
 
 #section-2 {
@@ -401,8 +401,9 @@ textarea {
   text-align: justify;
   display: flex;
   margin-top: auto;
-  margin-bottom: 150px;
-  color: var(--white);
+  margin-bottom: 200px;
+  margin-left: 30%;
+  margin-right: 30%;
 }
 
 #section-3 {
