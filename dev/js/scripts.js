@@ -21,7 +21,7 @@ function boxAnimation(){
         scrollTrigger:{
             trigger: "#box",
             toggleActions: "play none play reverse",
-            scrub:true
+            scrub:true,
             start:"bottom 70%",
             end:"top 20%",
             markers:true
@@ -39,7 +39,7 @@ function textAnimation(){
         scrollTrigger:{
             trigger: "#section-3 h1",
             toggleActions: "play rest none reverse",
-            scrub:true
+            scrub:true,
             start:"center",
             end:"bottom 80%",
             markers:true
@@ -57,7 +57,7 @@ function heroAnimation(){
         scrollTrigger:{
             trigger: "#section-1 h1",
             toggleActions: "play none none reverse",
-            scrub:true
+            scrub:true,
             start:"top 30%",
             end:"bottom 20%",
             markers:true
