@@ -14,17 +14,36 @@ gsap.registerPlugin(ScrollTrigger);
     //rotation:360, 
     //x:"-=600%"});
 
+//let textAnimation = document.getElementsByTagName('p');
+
 function boxAnimation(){
     let tl = gsap.timeline({
         scrollTrigger:{
             trigger: "#box",
-            toggleActions: "play none none reverse",
+            toggleActions: "play play play reverse",
             start:"bottom 70%",
+            end:"top 20%",
+            markers:true
+         }});
+
+    tl.from("#box",{duration:2, scale:2, rotation:180, x:"-=600%"})
+    ;
+
+    return tl;
+
+}
+
+function textAnimation(){
+    let tl = gsap.timeline({
+        scrollTrigger:{
+            trigger: "#p",
+            toggleActions: "play rest none reverse",
+            start:"bottom 50%",
             end:"top 30%",
             markers:true
          }});
 
-    tl.from("#box", {duration:2, scale:2, rotation:360, x:"-=600%"})
+    tl.from("#p",{duration:2, scale:2, rotation:360, x:"-=600%"})
     ;
 
     return tl;
@@ -32,7 +51,8 @@ function boxAnimation(){
 }
 
 let mainTl = gsap.timeline();
-mainTl.add(boxAnimation());
+mainTl.add(boxAnimation())
+    .add(textAnimation());
     //.add(boxAnimation())
     //.add(hikingAnimation())
     //.add(hero2Animation())
