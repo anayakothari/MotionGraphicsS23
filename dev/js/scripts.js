@@ -14,19 +14,19 @@ gsap.registerPlugin(ScrollTrigger);
     //rotation:360, 
     //x:"-=600%"});
 
-//let textAnimation = document.getElementsByTagName('p');
+
 
 function boxAnimation(){
     let tl = gsap.timeline({
         scrollTrigger:{
             trigger: "#box",
-            toggleActions: "play play play reverse",
+            toggleActions: "play none play reverse",
             start:"bottom 70%",
             end:"top 20%",
             markers:true
          }});
 
-        tl.from("#box",{duration:2, scale:2, rotation:180, x:"-=600%"})
+        tl.from("#box",{duration:2, scale:2, rotation:360, x:"-=600%"})
     ;
 
     return tl;
@@ -43,7 +43,24 @@ function textAnimation(){
             markers:true
          }});
 
-        tl.to("#section-2 p",{duration:2, scale:.5})
+        tl.to("#section-2 p",{duration:2, scale:3})
+    ;
+
+    return tl;
+
+}
+
+function heroAnimation(){
+    let tl = gsap.timeline({
+        scrollTrigger:{
+            trigger: "#section-1 h1",
+            toggleActions: "play rest none reverse",
+            start:"top 30%",
+            end:"bottom 20%",
+            markers:true
+         }});
+
+        tl.to("#section-1 h1",{duration:2, rotation:360, scale:2})
     ;
 
     return tl;
@@ -51,8 +68,9 @@ function textAnimation(){
 }
 
 let mainTl = gsap.timeline();
-mainTl.add(boxAnimation())
-    .add(textAnimation());
+mainTl.add(heroAnimation())
+    .add(textAnimation())
+    .add(boxAnimation());
     //.add(boxAnimation())
     //.add(hikingAnimation())
     //.add(hero2Animation())
