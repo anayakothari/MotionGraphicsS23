@@ -43,7 +43,7 @@ function textAnimation(){
             markers:true
          }});
 
-        tl.to("#section-2 p",{duration:2, scale:3})
+        tl.to("#section-2 p",{duration:2, y:"-=100"})
     ;
 
     return tl;
@@ -54,7 +54,7 @@ function heroAnimation(){
     let tl = gsap.timeline({
         scrollTrigger:{
             trigger: "#section-1 h1",
-            toggleActions: "play rest none reverse",
+            toggleActions: "play none none reverse",
             start:"top 30%",
             end:"bottom 20%",
             markers:true
@@ -71,7 +71,5 @@ let mainTl = gsap.timeline();
 mainTl.add(heroAnimation())
     .add(textAnimation())
     .add(boxAnimation());
-    //.add(boxAnimation())
-    //.add(hikingAnimation())
-    //.add(hero2Animation())
+   
     
