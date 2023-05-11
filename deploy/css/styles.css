@@ -415,6 +415,10 @@ textarea {
   margin: 0 auto;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
+  color: var(--white);
+  font-size: 20pt;
+  font-weight: 300;
 }
 
 #section-3 {
