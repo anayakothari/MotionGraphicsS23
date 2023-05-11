@@ -3,18 +3,6 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 gsap.registerPlugin(ScrollTrigger);
 
-//gsap.from("#box",{duration:2, scrollTrigger:{
-    //trigger:"#box",
-    //toggleActions:"play none none reverse",
-    //start:"bottom 70%",
-    //end:"top 30%",
-    //markers:true
-    //},
-    //scale:2, 
-    //rotation:360, 
-    //x:"-=600%"});
-
-
 
 function boxAnimation(){
     let tl = gsap.timeline({
@@ -42,7 +30,7 @@ function textAnimation(){
             scrub:true,
             start:"top 10%",
             end:"bottom 30%",
-            markers:true
+            markers:false
          }});
 
         tl.to("#section-2 p",{duration:2, y:"+=350", scale:.75})
@@ -78,7 +66,7 @@ function hero2Animation(){
             scrub:true,
             start:"top 30%",
             end:"bottom 20%",
-            markers:true
+            markers:false
          }});
 
         tl.to("#section-3 h1",{duration:2, rotation:360, scale:1.5})
