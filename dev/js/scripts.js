@@ -24,7 +24,7 @@ function boxAnimation(){
             scrub:true,
             start:"bottom 70%",
             end:"top 20%",
-            markers:true
+            markers:false
          }});
 
         tl.from("#box",{duration:3, scale:2, rotation:360, x:"-=1000%"})
@@ -37,15 +37,15 @@ function boxAnimation(){
 function textAnimation(){
     let tl = gsap.timeline({
         scrollTrigger:{
-            trigger: "#section-3 h1",
+            trigger: "#section-2 p",
             toggleActions: "play rest none reverse",
             scrub:true,
-            start:"center",
-            end:"bottom 80%",
+            start:"top 10%",
+            end:"bottom 30%",
             markers:true
          }});
 
-        tl.to("#section-3 h1",{duration:2, y:"-=100"})
+        tl.to("#section-2 p",{duration:2, y:"+=350"})
     ;
 
     return tl;
@@ -60,7 +60,7 @@ function heroAnimation(){
             scrub:true,
             start:"top 30%",
             end:"bottom 20%",
-            markers:true
+            markers:false
          }});
 
         tl.to("#section-1 h1",{duration:2, rotation:360, scale:1.5})
