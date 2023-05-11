@@ -60,7 +60,7 @@ function heroAnimation(){
             markers:true
          }});
 
-        tl.to("#section-1 h1",{duration:2, rotation:360, scale:2})
+        tl.to("#section-1 h1",{duration:2, rotation:360, scale:1.5})
     ;
 
     return tl;
