@@ -8,7 +8,7 @@ gsap.registerPlugin(MotionPathPlugin, TextPlugin, DrawSVGPlugin, GSDevTools);
 
 const mainTL = gsap.timeline();
 
-mainTL.from("#logomark", {});
+mainTL.from("#logomark", {duration:3});
 
 
 
