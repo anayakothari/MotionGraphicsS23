@@ -4,7 +4,7 @@
     {
       "name" : "Process All Remaining Files and Folders",
       "stepType" : 1,
-      "uuidString" : "2D98CC5F-45F9-46F2-8AEF-2F553619B0BE"
+      "uuidString" : "2BB204BD-FCD9-43ED-816A-B39A2306E9E0"
     }
   ],
   "creatorBuild" : "34484",
@@ -17,15 +17,7 @@
       "oAP" : "\/.gitattributes",
       "oF" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/.gitattributes" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/.gitattributes",
-      "oF" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/deploy\/css\/styles.css" : {
+    "\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
       "ci" : 0,
@@ -33,94 +25,94 @@
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/deploy\/css\/styles-min.css",
+      "oAP" : "\/deploy\/css\/styles-min.css",
       "oF" : 0,
       "pg" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/deploy\/index.html" : {
+    "\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/deploy\/index.html",
+      "oAP" : "\/deploy\/index.html",
       "oF" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/deploy\/js\/scripts-min.js" : {
+    "\/deploy\/js\/scripts-min.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/deploy\/js\/scripts-min-min.js",
+      "oAP" : "\/deploy\/js\/scripts-min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/deploy\/scripts-min.js" : {
+    "\/deploy\/scripts-min.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/deploy\/scripts-min-min.js",
+      "oAP" : "\/deploy\/scripts-min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/design\/custom-logo.svg" : {
+    "\/design\/custom-logo.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/design\/custom-logo.svg",
+      "oAP" : "\/design\/custom-logo.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/content\/content.kit" : {
+    "\/dev\/content\/content.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/content\/content.html",
+      "oAP" : "\/dev\/content\/content.html",
       "oF" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/global\/head.kit" : {
+    "\/dev\/global\/head.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/global\/head.html",
+      "oAP" : "\/dev\/global\/head.html",
       "oF" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/global\/scripts.kit" : {
+    "\/dev\/global\/scripts.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/global\/scripts.html",
+      "oAP" : "\/dev\/global\/scripts.html",
       "oF" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/index.kit" : {
+    "\/dev\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/deploy\/index.html",
+      "oAP" : "\/deploy\/index.html",
       "oF" : 2
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/js\/scripts.js" : {
+    "\/dev\/js\/scripts.js" : {
       "bF" : 4,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/deploy\/scripts-min.js",
+      "oAP" : "\/deploy\/js\/scripts-min.js",
       "oF" : 2,
       "sC" : 3,
       "tS" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/base\/_base.scss" : {
+    "\/dev\/scss\/base\/_base.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -129,13 +121,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/base\/_base.css",
+      "oAP" : "\/dev\/scss\/base\/_base.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/base\/_normalize.scss" : {
+    "\/dev\/scss\/base\/_normalize.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -144,13 +136,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/base\/_normalize.css",
+      "oAP" : "\/dev\/scss\/base\/_normalize.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/base\/_typography.scss" : {
+    "\/dev\/scss\/base\/_typography.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -159,13 +151,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/base\/_typography.css",
+      "oAP" : "\/dev\/scss\/base\/_typography.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/components\/_buttons.scss" : {
+    "\/dev\/scss\/components\/_buttons.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -174,13 +166,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/components\/_buttons.css",
+      "oAP" : "\/dev\/scss\/components\/_buttons.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/components\/_forms.scss" : {
+    "\/dev\/scss\/components\/_forms.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -189,13 +181,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/components\/_forms.css",
+      "oAP" : "\/dev\/scss\/components\/_forms.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/components\/_navigation.scss" : {
+    "\/dev\/scss\/components\/_navigation.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -204,13 +196,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/components\/_navigation.css",
+      "oAP" : "\/dev\/scss\/components\/_navigation.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/helpers\/_mixins.scss" : {
+    "\/dev\/scss\/helpers\/_mixins.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -219,13 +211,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/helpers\/_mixins.css",
+      "oAP" : "\/dev\/scss\/helpers\/_mixins.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/helpers\/_variables.scss" : {
+    "\/dev\/scss\/helpers\/_variables.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -234,13 +226,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/helpers\/_variables.css",
+      "oAP" : "\/dev\/scss\/helpers\/_variables.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/layout\/_footer.scss" : {
+    "\/dev\/scss\/layout\/_footer.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -249,13 +241,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/layout\/_footer.css",
+      "oAP" : "\/dev\/scss\/layout\/_footer.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/layout\/_header.scss" : {
+    "\/dev\/scss\/layout\/_header.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -264,13 +256,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/layout\/_header.css",
+      "oAP" : "\/dev\/scss\/layout\/_header.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/sections\/_content.scss" : {
+    "\/dev\/scss\/sections\/_content.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -279,13 +271,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/sections\/_content.css",
+      "oAP" : "\/dev\/scss\/sections\/_content.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/styles.scss" : {
+    "\/dev\/scss\/styles.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -294,399 +286,19 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/styles.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/gsap-bonus.tgz" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/gsap-bonus.tgz",
-      "oF" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/node_modules" : {
-      "ft" : 65536,
-      "oA" : 2,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/node_modules",
-      "oF" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/package-lock.json" : {
-      "ft" : 524288,
-      "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/package-lock-min.json",
-      "oF" : 0,
-      "oO" : 1,
-      "oS" : 1
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/package.json" : {
-      "ft" : 524288,
-      "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/package-min.json",
-      "oF" : 0,
-      "oO" : 1,
-      "oS" : 1
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/README.md" : {
-      "cB" : 0,
-      "cS" : 0,
-      "eF" : 1,
-      "eL" : 1,
-      "ema" : 1,
-      "eSQ" : 1,
-      "ft" : 4096,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/README.html",
-      "oF" : 0,
-      "oFM" : 0,
-      "oS" : 0,
-      "pHT" : 0,
-      "pME" : 1,
-      "rFN" : 0,
-      "uCM" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/.gitattributes" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/.gitattributes",
-      "oF" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/build\/.gitignore" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/build\/.gitignore",
-      "oF" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/deploy\/css\/styles.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/deploy\/css\/styles-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/deploy\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/deploy\/index.html",
-      "oF" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/deploy\/js\/scripts-min.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/deploy\/js\/scripts-min-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/design\/tekni-logo-update.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/design\/tekni-logo-update.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/design\/tekni-logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/design\/tekni-logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/content\/content.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/content\/content.html",
-      "oF" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/global\/head.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/global\/head.html",
-      "oF" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/global\/scripts.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/global\/scripts.html",
-      "oF" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/deploy\/index.html",
-      "oF" : 2
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/js\/scripts.js" : {
-      "bF" : 4,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/deploy\/scripts-min.js",
+      "oAP" : "\/deploy\/css\/styles.css",
       "oF" : 2,
-      "sC" : 3,
-      "tS" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/base\/_base.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/base\/_base.css",
-      "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/base\/_normalize.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/base\/_normalize.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/base\/_typography.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/base\/_typography.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/components\/_buttons.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/components\/_buttons.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/components\/_forms.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/components\/_forms.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/components\/_navigation.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/components\/_navigation.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/helpers\/_mixins.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/helpers\/_mixins.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/helpers\/_variables.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/helpers\/_variables.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/layout\/_footer.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/layout\/_footer.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/layout\/_header.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/layout\/_header.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/sections\/_content.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/sections\/_content.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/styles.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/styles.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/node_modules" : {
-      "ft" : 65536,
-      "oA" : 2,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/node_modules",
-      "oF" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/package-lock.json" : {
-      "ft" : 524288,
-      "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/package-lock-min.json",
-      "oF" : 0,
-      "oO" : 1,
-      "oS" : 1
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/package.json" : {
-      "ft" : 524288,
-      "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/package-min.json",
-      "oF" : 0,
-      "oO" : 1,
-      "oS" : 1
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/README.html" : {
+    "\/gsap-bonus.tgz" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/README.html",
+      "oAP" : "\/gsap-bonus.tgz",
       "oF" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/README.md" : {
-      "cB" : 0,
-      "cS" : 0,
-      "eF" : 1,
-      "eL" : 1,
-      "ema" : 1,
-      "eSQ" : 1,
-      "ft" : 4096,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/README.html",
-      "oF" : 0,
-      "oFM" : 0,
-      "oS" : 0,
-      "pHT" : 0,
-      "pME" : 1,
-      "rFN" : 0,
-      "uCM" : 0
     },
     "\/node_modules" : {
       "ft" : 65536,
@@ -709,6 +321,33 @@
       "oF" : 0,
       "oO" : 1,
       "oS" : 1
+    },
+    "\/README.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/README.html",
+      "oF" : 0
+    },
+    "\/README.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/README.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
     }
   },
   "hooks" : [
@@ -718,12 +357,12 @@
 
   },
   "projectAttributes" : {
-    "creationDate" : 669227926.75338697,
+    "creationDate" : 649104598.99548197,
     "displayValue" : "MotionGraphicsS23",
     "displayValueWasSetByUser" : 0,
-    "iconImageName" : "brackets-ucla",
+    "iconImageName" : "brackets-glace",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 702951282.61023402
+    "lastBuiltDate" : 704325901.50510299
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
@@ -1017,14 +656,14 @@
     "bowerUseExactVersion" : 0,
     "browserRefreshDelay" : 0,
     "browserslistString" : ">0.2%, last 2 versions, Firefox ESR, not dead",
-    "buildEnvironment" : 1,
+    "buildEnvironment" : 0,
     "buildFolderActive" : 0,
     "buildFolderName" : "build",
     "cleanBuild" : 1,
     "cssoForceMediaMerge" : 0,
     "cssoRestructure" : 1,
     "environmentVariableEntries" : [
-      "NODE_ENV:::development"
+      "NODE_ENV:::production"
     ],
     "esLintConfigFileHandlingType" : 0,
     "esLintECMAVersion" : 7,
@@ -1083,7 +722,7 @@
       },
       "class-methods-use-this" : {
         "active" : 0,
-        "optionString" : "{'exceptMethods': [], 'enforceForClassFields': true}"
+        "optionString" : "{'exceptMethods': []}"
       },
       "comma-dangle" : {
         "active" : 1,
@@ -1245,7 +884,7 @@
       },
       "max-classes-per-file" : {
         "active" : 0,
-        "optionString" : "{'ignoreExpressions': false, 'max': 1}"
+        "optionString" : "1"
       },
       "max-depth" : {
         "active" : 0,
@@ -1452,7 +1091,7 @@
       },
       "no-implicit-coercion" : {
         "active" : 0,
-        "optionString" : "{'boolean': true, 'number': true, 'string': true, 'disallowTemplateShorthand': false, 'allow': []}"
+        "optionString" : "{'boolean': true, 'number': true, 'string': true, 'allow': []}"
       },
       "no-implicit-globals" : {
         "active" : 0
@@ -1502,7 +1141,7 @@
         "active" : 0
       },
       "no-loss-of-precision" : {
-        "active" : 1
+        "active" : 0
       },
       "no-magic-numbers" : {
         "active" : 0,
@@ -1559,7 +1198,7 @@
         "active" : 0
       },
       "no-nonoctal-decimal-escape" : {
-        "active" : 1
+        "active" : 0
       },
       "no-obj-calls" : {
         "active" : 1
@@ -1707,7 +1346,7 @@
         "optionString" : "{'enforceForOrderingRelations': false}"
       },
       "no-unsafe-optional-chaining" : {
-        "active" : 1,
+        "active" : 0,
         "optionString" : "{'disallowArithmeticOperators': false}"
       },
       "no-unused-expressions" : {
@@ -1729,7 +1368,7 @@
         "optionString" : "{'functions': true, 'classes': true, 'variables': true}"
       },
       "no-useless-backreference" : {
-        "active" : 1
+        "active" : 0
       },
       "no-useless-call" : {
         "active" : 0
