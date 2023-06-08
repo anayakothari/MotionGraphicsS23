@@ -406,3 +406,6 @@ textarea {
   justify-content: center;
   align-items: center;
 }
+#content > div #breakfour, #content > div #squareformation, #content > div #squareformgrow, #content > div #finallogo, #content > div #s, #content > div #y, #content > div #n, #content > div #a, #content > div #p, #content > div #s2, #content > div #e {
+  visibility: hidden;
+}
