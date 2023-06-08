@@ -64,22 +64,32 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/design\/custom-logo.svg" : {
+    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/design\/tekni-logo-update.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/design\/custom-logo.svg",
+      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/design\/tekni-logo-update.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/content\/logo.kit" : {
+    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/design\/tekni-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/design\/tekni-logo.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/content\/content.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/content\/logo.html",
+      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/content\/content.html",
       "oF" : 0
     },
     "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/global\/head.kit" : {
@@ -103,17 +113,17 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/index.html",
-      "oF" : 0
+      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/deploy\/index.html",
+      "oF" : 2
     },
     "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/js\/scripts.js" : {
-      "bF" : 0,
+      "bF" : 4,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/js\/scripts-min.js",
-      "oF" : 0,
+      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/deploy\/scripts-min.js",
+      "oF" : 2,
       "sC" : 3,
       "tS" : 0
     },
@@ -267,7 +277,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/sections\/_logo.scss" : {
+    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/sections\/_content.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -276,23 +286,11 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/sections\/_logo.css",
+      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/sections\/_content.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/styles.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/styles-min.css",
-      "oF" : 0,
-      "pg" : 0
     },
     "\/MotionGraphicsS23-AnayaKothari-Motion-LogoCustom\/dev\/scss\/styles.scss" : {
       "aP" : 0,
@@ -405,22 +403,32 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/design\/logo-reveal(1).svg" : {
+    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/design\/tekni-logo-update.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/design\/logo-reveal(1).svg",
+      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/design\/tekni-logo-update.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/content\/logo.kit" : {
+    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/design\/tekni-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/design\/tekni-logo.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/content\/content.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/content\/logo.html",
+      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/content\/content.html",
       "oF" : 0
     },
     "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/global\/head.kit" : {
@@ -444,17 +452,17 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/index.html",
-      "oF" : 0
+      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/deploy\/index.html",
+      "oF" : 2
     },
     "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/js\/scripts.js" : {
-      "bF" : 0,
+      "bF" : 4,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/js\/scripts-min.js",
-      "oF" : 0,
+      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/deploy\/scripts-min.js",
+      "oF" : 2,
       "sC" : 3,
       "tS" : 0
     },
@@ -608,7 +616,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/sections\/_logo.scss" : {
+    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/sections\/_content.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -617,23 +625,11 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/sections\/_logo.css",
+      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/sections\/_content.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
-    },
-    "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/styles.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/styles-min.css",
-      "oF" : 0,
-      "pg" : 0
     },
     "\/MotionGraphicsS23-AnayaKothari-Motion-LogoFound\/dev\/scss\/styles.scss" : {
       "aP" : 0,

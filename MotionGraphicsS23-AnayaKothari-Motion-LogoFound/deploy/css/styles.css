@@ -393,15 +393,15 @@ textarea {
 /* =============
     Footer
 ============= */
-#logo {
+#content {
   display: grid;
   grid-template-columns: auto 50% auto;
-  grid-template-areas: ". . ." ". logo ." ". . .";
+  grid-template-areas: ". . ." ". content ." ". . .";
   grid-template-rows: 20% auto 20%;
   height: 100vh;
 }
-#logo > div {
-  grid-area: logo;
+#content > div {
+  grid-area: content;
   display: flex;
   justify-content: center;
   align-items: center;
