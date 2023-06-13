@@ -1,8 +1,9 @@
 import { gsap } from "gsap";
 import { MorphSVGPlugin } from "gsap/MorphSVGPlugin";
 import { GSDevTools } from "gsap/GSDevTools";
+import { TextPlugin } from "gsap/TextPlugin";
 
-gsap.registerPlugin(MorphSVGPlugin, GSDevTools);
+gsap.registerPlugin(MorphSVGPlugin, TextPlugin, GSDevTools);
 
 const mainTL = gsap.timeline();
 
