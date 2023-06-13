@@ -50,7 +50,7 @@ mainTL.to("#firstsquare",{duration:.8,scale: 1})
 .to("#e",{duration: 0.6, delay:.2})
 
 
-
+GSDevTools.create();
 
 //.to("#firstsquare",{duration:.8, morphSVG:"#squareformation"})
 //.to("#firstsquare",{duration:.8, morphSVG:"#squareformgrow"})
@@ -66,5 +66,5 @@ mainTL.to("#firstsquare",{duration:.8,scale: 1})
 
 
 
-GSDevTools.create();
+
 
