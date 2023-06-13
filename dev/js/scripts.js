@@ -64,7 +64,7 @@ mainTL.to("#firstsquare",{duration:.8,scale: 1})
 //.to("#e",{duration: 0.6, opacity: 1, delay:.2})
 
 
-;
+
 
 GSDevTools.create();
 
