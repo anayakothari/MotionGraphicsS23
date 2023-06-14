@@ -8,7 +8,8 @@ gsap.registerPlugin(MotionPathPlugin, TextPlugin, DrawSVGPlugin, GSDevTools);
 
 const mainTL = gsap.timeline();
 
-mainTL.fromTo("#musicschool", {duration:1, y: '700%'},{duration: 2, y: '0%', ease: 'bounce.out'})
+mainTL.from("#logomark", {duration:1.5,x:"+=300%", ease: 'elastic', yoyo: true})
+//.fromTo(["#.s", "#.e", "#.t1", "#.t2", "#.l", "#.e2", "#.m", "#.e3", "#.n", "#.t3"], {duration:1, y: '-700%'},{duration: 2, y: '0%', ease: 'elastic'})
 .to("#s", {duration:.1, y: -10, ease: 'bounce.out', yoyo: true, repeat: 1})
 .to("#e", {duration:.1, y: -10, ease: 'bounce.out', yoyo: true, repeat: 1})
 .to("#t1", {duration:.1, y: -10, ease: 'bounce.out', yoyo: true, repeat: 1})
@@ -19,7 +20,9 @@ mainTL.fromTo("#musicschool", {duration:1, y: '700%'},{duration: 2, y: '0%', eas
 .to("#e3", {duration:.1, y: -10, ease: 'bounce.out', yoyo: true, repeat: 1})
 .to("#n", {duration:.1, y: -10, ease: 'bounce.out', yoyo: true, repeat: 1})
 .to("#t3", {duration:.1, y: -10, ease: 'bounce.out', yoyo: true, repeat: 1})
-.from("#logomark", {duration:2,x:"-=400%", y: -10, ease: 'bounce.out', yoyo: true})
+.fromTo("#musicschool", {duration:1, y: '700%'},{duration: 2, y: '0%', ease: 'bounce.out'})
+
+
 
 
 ;
