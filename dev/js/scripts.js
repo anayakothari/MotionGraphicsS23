@@ -10,7 +10,7 @@ const mainTL = gsap.timeline();
 
 
 mainTL.to("#firstsquare",{duration:.8,scale: 1})
-.to("#firstsquare",{duration:.8, morphSVG:"#secondsequence1", scale: .8, fill: "#DF6436", stroke: "#DF6436"})
+.to("#firstsquare",{duration:.8, morphSVG:["#secondsequence1", "#secondsequence2", "#secondsequence3", "#secondsequence4"],scale: .8, fill: "#DF6436", stroke: "#DF6436"})
 .to("#firstsquare",{duration:.8, morphSVG:"#secondsequence2", fill: "#DF6436", stroke: "#DF6436"})
 .to("#firstsquare",{duration:.8, morphSVG:"#secondsequence3", fill: "#DF6436", stroke: "#DF6436"})
 .to("#firstsquare",{duration:.8, morphSVG:"#secondsequence4", fill: "#DF6436", stroke: "#DF6436"})
@@ -42,13 +42,13 @@ mainTL.to("#firstsquare",{duration:.8,scale: 1})
 .to("#firstsquare",{duration:.8, morphSVG:"#final14", scale: .8, fill: "#DF6436", stroke: "#DF6436"})
 .to("#firstsquare",{duration:.8, morphSVG:"#final15", scale: .8, fill: "#DF6436", stroke: "#DF6436"})
 .to("#firstsquare",{duration:.8, morphSVG:"#final16", scale: .8, fill: "#DF6436", stroke: "#DF6436"})
-.to("#s",{duration: 0.6, delay:.2})
-.to("#y",{duration: 0.6, delay:.2})
-.to("#n",{duration: 0.6, delay:.2})
-.to("#a",{duration: 0.6, delay:.2})
-.to("#p",{duration: 0.6, delay:.2})
-.to("#s2",{duration: 0.6, delay:.2})
-.to("#e",{duration: 0.6, delay:.2})
+.to("#s",{duration:.1, opacity: 0, ease: "power1.easeInOut"})
+.to("#y",{duration:.1, opacity: 0, ease: "power1.easeInOut"})
+.to("#n",{duration:.1, opacity: 0, ease: "power1.easeInOut"})
+.to("#a",{duration:.1, opacity: 0, ease: "power1.easeInOut"})
+.to("#p",{duration:.1, opacity: 0, ease: "power1.easeInOut"})
+.to("#s2",{duration:.1, opacity: 0, ease: "power1.easeInOut"})
+.to("#e",{duration:.1, opacity: 0, ease: "power1.easeInOut"})
 
 
 GSDevTools.create();
