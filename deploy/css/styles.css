@@ -408,7 +408,7 @@ textarea {
   background-color: #000000;
 }
 #content > div svg {
-  width: 75%;
+  width: 100%;
 }
 #content > div #secondsequence1, #content > div #secondsequence2, #content > div #secondsequence3, #content > div #secondsequence4, #content > div #diamond1, #content > div #diamond2, #content > div #diamond3, #content > div #diamond4, #content > div #grow1, #content > div #grow2, #content > div #grow3, #content > div #grow4, #content > div #grow5, #content > div #grow6, #content > div #grow7, #content > div #grow8, #content > div #final1, #content > div #final2, #content > div #final3, #content > div #final4, #content > div #final5, #content > div #final6, #content > div #final7, #content > div #final8, #content > div #final9, #content > div #final10, #content > div #final11, #content > div #final12, #content > div #final13, #content > div #final14, #content > div #final15, #content > div #final16, #content > div #s, #content > div #y, #content > div #n, #content > div #a, #content > div #p, #content > div #s2, #content > div #e {
   visibility: hidden;

@@ -10,14 +10,15 @@ const mainTL = gsap.timeline();
 
 
 mainTL.to("#firstsquare",{duration:.8,scale: 1})
-.to("#firstsquare",{duration:.8, morphSVG:["#secondsequence1", "#secondsequence2", "#secondsequence3", "#secondsequence4"],scale: .8, fill: "#DF6436", stroke: "#DF6436"})
+//.to("#firstsquare",{duration:.8, morphSVG:["#secondsequence1", "#secondsequence2", "#secondsequence3", "#secondsequence4"],scale: .8, fill: "#DF6436", stroke: "#DF6436"})
 .to("#firstsquare",{duration:.8, morphSVG:"#secondsequence2", fill: "#DF6436", stroke: "#DF6436"})
 .to("#firstsquare",{duration:.8, morphSVG:"#secondsequence3", fill: "#DF6436", stroke: "#DF6436"})
 .to("#firstsquare",{duration:.8, morphSVG:"#secondsequence4", fill: "#DF6436", stroke: "#DF6436"})
-.to("#firstsquare",{duration:.8, morphSVG:"#diamond1", scale: .8, fill: "#DF6436", stroke: "#DF6436"})
+//.to(["#secondsequence1", "#secondsequence2", "#secondsequence3", "#secondsequence4"],{duration:.8, morphSVG:["#diamond1", "#diamond2", "#diamond3", "#diamond4"], scale: .8, fill: "#DF6436", stroke: "#DF6436"})
 .to("#firstsquare",{duration:.8, morphSVG:"#diamond2", scale: .8, fill: "#DF6436", stroke: "#DF6436"})
 .to("#firstsquare",{duration:.8, morphSVG:"#diamond3", scale: .8, fill: "#DF6436", stroke: "#DF6436"})
 .to("#firstsquare",{duration:.8, morphSVG:"#diamond4", scale: .8, fill: "#DF6436", stroke: "#DF6436"})
+//.to(["#diamond1", "#diamond2", "#diamond3", "#diamond4"],{duration:.8, morphSVG:["#grow1", "#grow2", "#grow3", "#grow4", "#grow5", "#grow6", "#grow7", "#grow8"], scale: .8, fill: "#DF6436", stroke: "#DF6436"})
 .to("#firstsquare",{duration:.8, morphSVG:"#grow1", scale: .8, fill: "#DF6436", stroke: "#DF6436"})
 .to("#firstsquare",{duration:.8, morphSVG:"#grow2", scale: .8, fill: "#DF6436", stroke: "#DF6436"})
 .to("#firstsquare",{duration:.8, morphSVG:"#grow3", scale: .8, fill: "#DF6436", stroke: "#DF6436"})
@@ -49,6 +50,8 @@ mainTL.to("#firstsquare",{duration:.8,scale: 1})
 .to("#p",{duration:.1, opacity: 0, ease: "power1.easeInOut"})
 .to("#s2",{duration:.1, opacity: 0, ease: "power1.easeInOut"})
 .to("#e",{duration:.1, opacity: 0, ease: "power1.easeInOut"})
+
+;
 
 
 GSDevTools.create();
